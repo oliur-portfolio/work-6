@@ -1,0 +1,650 @@
+@media (max-width: 1349.98px) {
+    .wrapper {
+        max-width: 800px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+
+    .hero-area {
+        padding-top: 100px;
+        height: 850px;
+    }
+
+    .hero-content-images {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .hero-area .hero-content {
+        max-width: 100%;
+    }
+
+    .hero-area .hero-content h1 {
+        font-size: 60px;
+        margin-bottom: 500px;
+    }
+
+    .hero-image-1,
+    .hero-image-3 {
+        display: none;
+    }
+
+    .hero-image-2 {
+        top: -503px;
+        left: 370px;
+        z-index: 6;
+    }
+
+    .hero-image-4 {
+        top: -470px;
+        left: 60px;
+    }
+
+    .hero-area .hero-image {
+        height: 0;
+    }
+
+    .top-card {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .single-card {
+        width: 100%;
+    }
+
+    .card-image1 {
+        width: 416px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .single-card h3 {
+        font-size: 36px;
+        max-width: 70%;
+    }
+
+    .long-card h3 {
+        font-size: 46px;
+    }
+
+    .single-card p {
+        font-size: 24px;
+    }
+
+    .single-card-heading {
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+
+    .wider-card .single-card-heading {
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+    }
+
+    .long-cards {
+        margin-top: 40px;
+    }
+
+    .clients-container {
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+
+    .single-client {
+        width: 50%;
+        -webkit-box-pack: start;
+        -ms-flex-pack: start;
+        justify-content: flex-start;
+        -webkit-box-align: center;
+        -ms-flex-align: center;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 60px;
+    }
+
+    .clients-area {
+        padding-bottom: 50px;
+    }
+
+    .mission-area h3 {
+        color: #1b2056;
+        font-size: 36px;
+        line-height: 50px;
+        margin-bottom: 40px;
+    }
+
+    .mission-content-box {
+        padding: 30px;
+        padding-top: 60px;
+    }
+
+    .arabic-lang .mission-content-box {
+        padding: 30px;
+        padding-top: 60px;
+    }
+
+    .footer-content {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .footer-nav-items .active {
+        display: none;
+    }
+
+    .footer-right {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: reverse;
+        -ms-flex-direction: row-reverse;
+        flex-direction: row-reverse;
+        -webkit-box-align: start;
+        -ms-flex-align: start;
+        align-items: flex-start;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+
+    .footer-social-icons {
+        margin-top: 0;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        height: 70px;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+
+    .twitter {
+        margin-left: 0;
+    }
+
+    .footer-nav-items {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+
+    .footer-nav-items li:first-child {
+        display: none;
+    }
+
+    .footer-nav-items li {
+        width: 50%;
+    }
+
+    .desktop-element {
+        display: none;
+    }
+
+    .mobile-element {
+        display: block;
+    }
+
+    .english-btn {
+        display: none;
+    }
+
+    .footer-left {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+        justify-content: space-between;
+    }
+
+    .logo-text-container {
+        margin-bottom: 60px;
+    }
+
+    .footer-middle {
+        margin-bottom: 40px;
+    }
+
+    .footer-right {
+        margin-bottom: 60px;
+    }
+
+    .hero-mobile-svg {
+        position: absolute;
+        width: 106px;
+        height: 40px;
+        left: 370px;
+        top: -215px;
+        z-index: 10;
+    }
+
+    .hero-mobile-svg .svg-blur {
+        border-radius: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+        -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+        background: rgba(255, 255, 255, 0.6);
+    }
+
+    .hero-mobile-svg .svg-blur::after {
+        background: #e3edf9;
+    }
+
+    .footer-left {
+        -webkit-box-orient: horizontal;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+        flex-direction: row;
+    }
+
+    .translate-btn button {
+        font-size: 12px;
+        width: 48px;
+        height: 48px;
+    }
+
+    .arabic-lang .hero-image-4 {
+        left: auto;
+        right: 30px;
+        top: -580px;
+    }
+
+    .arabic-lang .hero-image-2 {
+        left: 124px;
+        top: -642px;
+    }
+
+    .arabic-lang .hero-area .hero-content h1 {
+        margin-bottom: 655px;
+    }
+
+    .arabic-lang .hero-mobile-svg {
+        left: auto;
+        right: 340px;
+        top: -270px;
+    }
+
+    .arabic-lang .card-section {
+        padding-top: 200px;
+    }
+
+    .arabic-lang .card-image1-svg1 {
+        left: 180px;
+    }
+
+    .arabic-lang .card-image1-svg2 {
+        left: 30px;
+    }
+
+    .arabic-lang .arabic-btn.desktop-element {
+        display: none;
+    }
+
+    .arabic-lang .english-btn.desktop-element {
+        display: none;
+    }
+
+    .arabic-lang .english-btn.mobile-element,
+    .arabic-lang .english-btn.mobile-element button {
+        display: block;
+    }
+
+    .arabic-lang .footer-nav-items.arabic {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+    }
+
+    .arabic-lang .twitter {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 760.98px) {
+    .wrapper {
+        padding-left: 23px;
+        padding-right: 23px;
+        max-width: 100%;
+    }
+
+    .hero-area {
+        overflow: hidden;
+        padding-top: 60px;
+        height: 780px;
+    }
+
+    .hero-bg {
+        width: 250%;
+        left: 50%;
+        transform: translateX(-50%);
+        -webkit-transform: translateX(-50%);
+        -moz-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        -o-transform: translateX(-50%);
+    }
+
+    .hero-area .hero-content h1 {
+        font-size: 44px;
+        line-height: 54px;
+        margin-bottom: 410px;
+    }
+
+    .hero-image-4 {
+        left: 24.5%;
+        top: -365px;
+    }
+
+    .hero-image-2 {
+        left: 57%;
+        top: -400px;
+    }
+
+    .hero-mobile-svg {
+        top: -190px;
+        left: 63%;
+    }
+
+    .hero-image-4 svg {
+        width: 230px;
+        height: auto;
+    }
+
+    .hero-image-2 svg {
+        width: 102px;
+        height: auto;
+    }
+
+    .hero-mobile-svg svg {
+        width: 100px;
+        height: auto;
+    }
+
+    .app-btn,
+    .keep-btn {
+        width: 178px;
+    }
+
+    .keep-btn {
+        font-size: 14px;
+    }
+
+    .custom-btn {
+        height: 62px;
+    }
+
+    .single-card h3 {
+        font-size: 24px;
+        max-width: 100%;
+    }
+
+    .card-image1-mobile {
+        width: 318px;
+        height: auto;
+    }
+
+    .card-image1-svg1 svg {
+        width: 79px;
+        height: auto;
+    }
+
+    .card-image1-svg1.svg-blur {
+        border-radius: 12px;
+        -webkit-border-radius: 12px;
+        -moz-border-radius: 12px;
+        -ms-border-radius: 12px;
+        -o-border-radius: 12px;
+    }
+
+    .card-image1-svg2 svg {
+        width: 101px;
+        height: auto;
+    }
+
+    .card-image1-svg1 {
+        position: absolute;
+        top: 55px;
+        left: 105px;
+    }
+
+    .card-image1-svg2 {
+        position: absolute;
+        top: 38px;
+        left: 200px;
+    }
+
+    .main-bottom-card2 {
+        width: 294px !important;
+        height: auto;
+    }
+
+    .credit-card-blue svg {
+        width: 200px;
+        height: auto;
+    }
+
+    .credit-card-red svg {
+        width: 130px;
+        height: auto;
+    }
+
+    .credit-card-black svg {
+        width: 130px;
+        height: auto;
+    }
+
+    .credit-card-blue {
+        top: 5px;
+        left: 63px;
+    }
+
+    .credit-card-red {
+        top: -40px;
+        left: 44px;
+    }
+
+    .credit-card-black {
+        top: -60px;
+        right: 44px;
+    }
+
+    .single-card {
+        padding: 25px;
+        padding-bottom: 0;
+    }
+
+    .lottie-animation-svg {
+        width: 59px !important;
+        height: 59px !important;
+    }
+
+    .small-cards .bg-blue {
+        margin-bottom: 20px;
+    }
+
+    .single-card h3 {
+        margin-bottom: 30px;
+    }
+
+    .single-card p {
+        font-size: 18px;
+        line-height: 28px;
+        margin-bottom: 30px;
+    }
+
+    .long-cards {
+        margin-top: 20px;
+    }
+
+    .long-card h3 {
+        font-size: 30px;
+    }
+
+    .wider-card .single-card-heading h3 {
+        font-size: 30px;
+        line-height: 40px;
+        margin-left: 0;
+        margin-top: 10px;
+    }
+
+    .wider-card .single-card-heading {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column;
+    }
+
+    .single-card a {
+        font-size: 18px;
+        line-height: 28px;
+    }
+
+    .wider-card {
+        padding: 25px;
+    }
+
+    .bottom-card {
+        margin-top: 20px;
+    }
+
+    .card-section {
+        padding-bottom: 150px;
+    }
+
+    .clients-area {
+        padding-bottom: 80px;
+    }
+
+    .mission-area h3 {
+        font-size: 28px;
+        line-height: 36px;
+        max-width: 325px;
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .mission-area .keep-btn {
+        width: 100%;
+    }
+
+    .mission-content-box {
+        padding: 20px;
+        padding-top: 75px;
+        padding-bottom: 40px;
+    }
+
+    .mission-bg {
+        width: 330%;
+        left: 0;
+    }
+
+    .footer-content {
+        padding: 50px 0;
+    }
+
+    .footer-nav-items li a {
+        font-size: 14px;
+        line-height: 18px;
+    }
+
+    .linkedin,
+    .twitter {
+        font-size: 14px;
+    }
+
+    .privacy-heading h1 {
+        font-size: 30px;
+    }
+
+    .privacy-heading p {
+        font-size: 24px;
+    }
+
+    .accsses-content h3,
+    .transparency-content h3 {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .accsses-content p,
+    .transparency-content p {
+        font-size: 18px;
+    }
+
+    .arabic-lang .hero-area {
+        height: 970px;
+    }
+
+    .arabic-lang .hero-area .hero-image {
+        width: 100%;
+    }
+
+    .arabic-lang .hero-area .hero-content h1 {
+        margin-bottom: 460px;
+    }
+
+    .arabic-lang .hero-image-4 {
+        right: 50px;
+        top: -400px;
+    }
+
+    .arabic-lang .hero-image-2 {
+        left: auto;
+        right: 230px;
+        top: -450px;
+    }
+
+    .arabic-lang .hero-mobile-svg {
+        right: 260px;
+        top: -200px;
+    }
+
+    .arabic-lang .hero-area {
+        height: 850px;
+    }
+
+    .arabic-lang .card-section {
+        padding-top: 0;
+    }
+
+    .arabic-lang .card-image1-svg1 {
+        left: 235px;
+        top: 57px;
+    }
+
+    .arabic-lang .card-image1-svg2 {
+        left: 118px;
+        top: 42px;
+    }
+
+    .arabic-lang .single-card h3 {
+        line-height: 38px;
+    }
+
+    .arabic-lang .long-card h3 {
+        line-height: 50px;
+    }
+
+    .arabic-lang .wider-card .single-card-heading h3 {
+        margin-right: 0;
+    }
+
+    .arabic-lang .mission-area h3 {
+        max-width: 300px;
+    }
+}

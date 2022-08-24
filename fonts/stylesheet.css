@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Montserrat-Arabic';
+    src: url('Montserrat-Arabic-Bold.eot');
+    src: url('Montserrat-Arabic-Bold.svg#Montserrat-Arabic') format('svg'),
+        url('Montserrat-Arabic-Bold.otf') format('opentype'),
+        url('Montserrat-Arabic-Bold.ttf') format('truetype'),
+        url('Montserrat-Arabic-Bold.woff') format('woff'),
+        url('Montserrat-Arabic-Bold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Montserrat-Arabic';
+    src: url('Montserrat-Arabic-SemiBold.eot');
+    src: url('Montserrat-Arabic-SemiBold.svg#Montserrat-Arabic') format('svg'),
+        url('Montserrat-Arabic-SemiBold.otf') format('opentype'),
+        url('Montserrat-Arabic-SemiBold.ttf') format('truetype'),
+        url('Montserrat-Arabic-SemiBold.woff') format('woff'),
+        url('Montserrat-Arabic-SemiBold.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Montserrat-Arabic';
+    src: url('Montserrat-Arabic-Medium.eot');
+    src: url('Montserrat-Arabic-Medium.svg#Montserrat-Arabic') format('svg'),
+        url('Montserrat-Arabic-Medium.otf') format('opentype'),
+        url('Montserrat-Arabic-Medium.ttf') format('truetype'),
+        url('Montserrat-Arabic-Medium.woff') format('woff'),
+        url('Montserrat-Arabic-Medium.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Montserrat-Arabic';
+    src: url('Montserrat-Arabic-Light.eot');
+    src: url('Montserrat-Arabic-Light.svg#Montserrat-Arabic') format('svg'),
+        url('Montserrat-Arabic-Light.otf') format('opentype'),
+        url('Montserrat-Arabic-Light.ttf') format('truetype'),
+        url('Montserrat-Arabic-Light.woff') format('woff'),
+        url('Montserrat-Arabic-Light.woff2') format('woff2');
+    font-style: normal;
+    font-weight: 300;
+}
